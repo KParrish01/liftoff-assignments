@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-The project will be a professional tool to automate the review of bank loan portfolios and the analysis of loans (and possibly at a later point also loan underwriting). The app will take standardized loan data banks can easily download from their systems (called "Examiner Downloads"), extract information from the data to create line sheets for auditors, and perform basic analyses for each loan. The goal is to speed up the auditors' work, reduce errors, and lessen the need for edits. 
+The project will be a professional tool to automate the review of bank loan portfolios and the analysis of (commercial) loans (and possibly at a later point also loan underwriting). The app will take standardized loan data banks can easily download from their systems (called "Examiner Downloads"), extract information from the data to create line sheets for auditors, and perform basic analyses for each loan. The goal is to speed up the auditors' work, reduce errors, and lessen the need for edits. 
 
 The motivation for the project came from me having a strong dislike for repetitive work when performing loan reviews. It is designed to help auditors, bank examiners, bankers, financial analysts and economists more efficiently pinpoint a bank's loan portfolio's strengths and weaknesses and conduct loan reviews. (At a later point, the project might be expanded to add tools to help loan underwriting.)
 
@@ -19,12 +19,12 @@ The motivation for the project came from me having a strong dislike for repetiti
     4. MVP: Analyze financials for each loan (read or typed in separately).
     5. Create reports with summarized findings (technical exceptions, summary review findings, ...).
     6. Analyze loans on an aggregate basis (could be used for Allowance for Loan and Lease Loss (ALLL) analysis, Board of Directors reports, due diligence, audits and possibly also for CECL?).
-    7. Add external public data to the loan file such as macro economic data to make predictions for loans based on industry.
+    7. Add external public data to the loan file such as macro economic data to make predictions for loans based on industry (possibly also industry databases such as Dunn & Bradstreet).
     8. Add external public macro data and Uniform Bank Performance Report (UBPR) to create risk estimates and projections.
     9. Pull outside public information into app and help analyze loans (e.g. UCC filings, appraisal estimates, company information, business search (date company formed), recordings of deeds and mortgages, etc.)
     10. Analyze bank loan documents (from separate system).
     (11. Possibly User login: The App will probably live behind firewalls on a secure computer without access to the public, but due to the confidentiality of the data, User Login and Authentication might still need to be considered.)
-    (12. At a later later point: Would be great to use some AI to help underwrite loans/industries.)
+    (12. At a later later point: Would be great to use some AI to help underwrite loans/industries. - Goal would be to at some point allow for "real time data" commercial underwriting instead of the current "driving while looking in the rear view mirror" approach to underwriting based on 1-3-year old financial data.)
 
 ### Technologies
     Java
