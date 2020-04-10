@@ -20,7 +20,7 @@ The motivation for the project came from me having a strong dislike for repetiti
     5. Create reports with summarized findings (technical exceptions, summary review findings, ...).
     6. Analyze loans on an aggregate basis (could be used for Allowance for Loan and Lease Loss (ALLL) analysis, Board of Directors reports, due diligence, audits and possibly also for CECL?).
     7. Add external public data to the loan file such as macro economic data to make predictions for loans based on industry.
-    8. Add external public data to the loan file such as macro economic data and Uniform Bank Performance Report (UBPR) to create risk estimates and projections.
+    8. Add external public macro data and Uniform Bank Performance Report (UBPR) to create risk estimates and projections.
     9. Pull outside public information into app and help analyze loans (e.g. UCC filings, appraisal estimates, company information, business search (date company formed), recordings of deeds and mortgages, etc.)
     10. Analyze bank loan documents (from separate system).
     (11. Possibly User login: The App will probably live behind firewalls on a secure computer without access to the public, but due to the confidentiality of the data, User Login and Authentication might still need to be considered.)
