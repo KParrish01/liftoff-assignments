@@ -16,7 +16,7 @@ The motivation for the project came from me having a strong dislike for repetiti
     1. MVP: Read bank data ("Examiner Download" - text file) into MySQL and clean up data.
     2. MVP: Extract loans with certain features from above database.
     3. MVP: Create line sheets and populate them with data extracted from above database (including some calculations).
-    4. MVP: Analyze financials for each loan (read or typed in separately).
+    4. Analyze financials for each loan (read or typed in separately).
     5. Create reports with summarized findings (technical exceptions, summary review findings, ...).
     6. Analyze loans on an aggregate basis (could be used for Allowance for Loan and Lease Loss (ALLL) analysis, Board of Directors reports, due diligence, audits and possibly also for CECL?).
     7. Add external public data to the loan file such as macro economic data to make predictions for loans based on industry (possibly also industry databases such as Dunn & Bradstreet).
