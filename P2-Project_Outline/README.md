@@ -41,5 +41,5 @@ At a later point, I would like to learn how to pull public information from the 
 Moreover, all of above needs to keep in mind that I am dealing with highly confidential information.
 
 ### Project Tracker
-https://trello.com/invite/b/dIsStOiO/33cab55cb7f9301ab410f21d21a29b25/liftoff-project
+https://trello.com/invite/b/2UFoKdGC/f80c08d5525b915d082e238b5a4858c6/liftoff-project-board-klara
 (https://trello.com/b/dIsStOiO/liftoff-project)
