@@ -12,7 +12,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint:
+https://trello.com/invite/b/2UFoKdGC/f80c08d5525b915d082e238b5a4858c6/liftoff-project-board-klara
 
 ### Project Repo Link
 
