@@ -34,6 +34,8 @@ The motivation for the project came from me having a strong dislike for repetiti
     Thymeleaf templates
   
 ### What I'll Have to Learn
+Early on, I need to learn MySQL EER to draft the relationship between the datatabases.
+
 I will need to learn how to read a large text file that should have data in columns with standardized labels into MySQL, but will need to check for missing columns and check for possible errors in the original data and allow for clean up of the data. Once the data is "clean" and in MySQL, I will need to learn to manipulate the data to query loans with certain features, pull that information into separate tables that create the basis for line sheets, perform certain calculations, and populate line sheets. Ideally, the line sheets would still be within the system, would allow for text and data to be added manually by an auditor, be printed out efficiently into a PDF and transferred into Excel, yet stay within the project to allow for the creation of summary reports of the findings.
 
 At a later point, I would like to learn how to pull public information from the Internet into the system to allow for the automation of additional analyses. (And yet at a later point, the information from a bank's loan documentation system could be added, if the system is set up appropriately - which may not be in my control though, thus may not be realistic in the near future.)
