@@ -11,8 +11,8 @@ For this assignment, you'll create some initial plans for your project.
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files:
 
 * Starting Page / Home Page:
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Landing Page / Home Page:](/liftoff-asignments/Wireframes-Images/1-Landing-page.jpeg)
+Format: ![Alt Text](Landigng Page)]
 * Load Data:
 * Sample Loans:
 * Line Sheet Set Up:
