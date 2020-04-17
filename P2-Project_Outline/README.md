@@ -13,25 +13,25 @@ The motivation for the project came from me having a strong dislike for repetiti
 
 
 ### Features
-    1. MVP: Read in Examiner Download: To be able to work with data, read bank data ("Examiner Download" - text file) into MySQL and clean up data.
-    2. MVP: Choose Sample: To choose a sample of loans with certain features, extract loans from above database.
-    3. MVP: Create Line Sheets: To prepare loans to be audited, create line sheets and populate them with data extracted from above database (including some calculations).
-    4. Analyze Financials: Analyze financials for each loan (read or typed in separately).
-    5. Create Summary Reports: Create reports with summarized findings (technical exceptions, summary review findings, ...).
-    6. Analyze loans on an aggregate basis (could be used for Allowance for Loan and Lease Loss (ALLL) analysis, Board of Directors reports, due diligence, audits and possibly also for CECL?).
-    7. Add external public data to the loan file such as macro economic data to make predictions for loans based on industry (possibly also industry databases such as Dunn & Bradstreet).
-    8. Add external public macro data and Uniform Bank Performance Report (UBPR) to create risk estimates and projections.
-    9. Pull outside public information into app and help analyze loans (e.g. UCC filings, appraisal estimates, company information, business search (date company formed), recordings of deeds and mortgages, etc.)
-    10. Analyze bank loan documents (from separate system).
+    1. MVP: Read in Examiner Download: For Audit Manager to be able to work with data, read bank data ("Examiner Download" - text file) into MySQL and clean up data.
+    2. MVP: Choose Sample: For Audit Manager to choose a sample of loans with certain features, extract loans from above database.
+    3. MVP: Create Line Sheets: For Audit Manager to prepare loans to be audited, create line sheets and populate them with data extracted from above database (including some calculations).
+    4. Analyze Financials: For Auditor to analyze financials for each loan (read or typed in separately), provide financial pages with some pre-set calculations.
+    5. Create Summary Reports: For Audit Manager to create reports with summarized findings (technical exceptions, summary review findings, ...), set up tables with summary of review.
+    6. For Audit Manager to analyze loans on an aggregate basis (could be used for Allowance for Loan and Lease Loss (ALLL) analysis, Board of Directors reports, due diligence, audits and possibly also for CECL?), provide pre-set calculations.
+    7. For Auditors to easier work loans, add external public data to the loan file such as macro economic data to make predictions for loans based on industry (possibly also industry databases such as Dunn & Bradstreet).
+    8. For Audit Manager to to create risk estimates and projections, add external public macro data and Uniform Bank Performance Report (UBPR).
+    9. For Auditors to easier work loans, pull outside public information into app and help analyze loans (e.g. UCC filings, appraisal estimates, company information, business search (date company formed), recordings of deeds and mortgages, etc.)
+    10. For Auditors to easier work loans, analyze bank loan documents (from separate system).
     (11. Possibly User login: The App will probably live behind firewalls on a secure computer without access to the public, but due to the confidentiality of the data, User Login and Authentication might still need to be considered.)
     (12. At a later later point: Would be great to use some AI to help underwrite loans/industries. - Goal would be to at some point allow for "real time data" commercial underwriting instead of the current "driving while looking in the rear view mirror" approach to underwriting based on 1-3-year old financial data.)
 
 ### Technologies
-    Java
-    Spring Boot
-    MySQL
-    Hibernate
-    Thymeleaf templates
+    * Java
+    * Spring Boot
+    * MySQL
+    * Hibernate
+    * Thymeleaf templates
   
 ### What I'll Have to Learn
 Early on, I need to learn MySQL EER to draft the relationship between the datatabases.
