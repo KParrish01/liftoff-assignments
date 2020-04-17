@@ -8,7 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files:
+
+* Starting Page / Home Page:
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+* Load Data:
+* Sample Loans:
+* Line Sheet Set Up:
 
 ### Project Tracker
 
