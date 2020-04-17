@@ -16,9 +16,22 @@ Format: ![Alt Text](Wireframes Flowchart pdf)
 * Starting Page / Home Page:
 ![Landing Page / Home Page:](/Wireframes-Images/1-Landing-page.jpeg)
 Format: ![Alt Text](Landigng Page jpeg)
+
 * Load Data:
+![Load Data Page:](/Wireframes-Images/2-LoadData-page.jpeg)
+Format: ![Alt Text](Load Data Page jpeg)
+
 * Sample Loans:
+![Loan Sampling Page:](/Wireframes-Images/3-LoanSampling-page.jpeg)
+Format: ![Alt Text](Loan Sampling Page jpeg)
+
+* Loan Sampling Results:
+![Loan Sampling Results Page:](/Wireframes-Images/4-LoanSamplingResults-page.jpeg)
+Format: ![Alt Text](Loan Sampling Results Page jpeg)
+
 * Line Sheet Set Up:
+![Line Sheets Choice Page:](/Wireframes-Images/5-LineSheetsChoice-page.jpeg)
+Format: ![Alt Text](Line Sheets ChoicePage jpeg)
 
 ### Project Tracker
 
