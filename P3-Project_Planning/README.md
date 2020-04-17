@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files:
 
-* Wireframes Flowchart: ![Wireframes Flowchart:](/Wireframes-Images/Wireframe-FLow.jpeg)
+* Wireframes Flowchart: ![Wireframes Flowchart:](https://github.com/KParrish01/liftoff-assignments/blob/master/Wireframes-Images/Wireframe-Flow.jpeg)
 
 * Starting Page / Home Page:
 ![Landing Page / Home Page:](/Wireframes-Images/1-Landing-page.jpeg)
