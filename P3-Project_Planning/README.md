@@ -36,4 +36,4 @@ https://trello.com/invite/b/2UFoKdGC/f80c08d5525b915d082e238b5a4858c6/liftoff-pr
 ### Project Repo Link
 
 Include a link to your project on GitHub:
-https://github.com/KParrish01/loan-portfolio-analyzer
+https://github.com/KParrish01/lpa
