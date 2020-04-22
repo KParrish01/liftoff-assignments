@@ -7,10 +7,11 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+Link to your GitHub account:
+https://github.com/KParrish01
  
 ### LinkedIn
-Link to your LinkedIn account:
+Link to LinkedIn account:
 https://www.linkedin.com/in/klara-parrish/
 
 ### Resume
